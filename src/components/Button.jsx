@@ -8,6 +8,7 @@ const VARIANT_CLASSES = {
   secondary: "bg-gray-400 text-white hover:bg-gray-600",
   ghost: "bg-transparent hover:bg-gray-200",
   link: "hover:underline",
+  success: "bg-green-500 text-white hover:bg-green-600"
 };
 
 const SIZE_CLASSES = {
