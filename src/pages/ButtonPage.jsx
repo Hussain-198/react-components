@@ -3,7 +3,7 @@ import {Link} from "react-router-dom"
 
 function ButtonPage() {
   return (
-    <div className="flex flex-col justify-center items-center gap-3 h-screen">
+    <div className="flex flex-col flex-wrap justify-center items-center gap-3 h-screen">
       <div className="flex justify-center items-center gap-4">
         <Button variant="default">Default</Button>
         <Button variant="secondary">Secondary</Button>

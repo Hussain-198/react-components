@@ -3,7 +3,7 @@ import Button from "../components/Button";
 
 function HomePage() {
   return (
-    <div className="flex justify-center items-center h-screen gap-3">
+    <div className="flex flex-wrap justify-center items-center h-screen gap-3">
       <Link to="/button">
         <Button variant="outline">Button</Button>
       </Link>
