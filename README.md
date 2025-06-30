@@ -1,12 +1,24 @@
-# React + Vite
+# React + ShadCN Component Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a reusable **React component library** built with **Tailwind CSS** and powered by [**shadcn/ui**](https://ui.shadcn.com). It includes commonly used UI components — fully functional and styled for modern applications.
 
-Currently, two official plugins are available:
+## Available Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The following components are available in this library. Below are the **reference links** from the official ShadCN documentation:
 
-## Expanding the ESLint configuration
+- [Button](https://ui.shadcn.com/docs/components/button)
+- [Input](https://ui.shadcn.com/docs/components/input)
+- [Modal (Dialog)](https://ui.shadcn.com/docs/components/dialog)
+- [Card](https://ui.shadcn.com/docs/components/card)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I Built
+
+You can check out the **hosted version** of the component library here:  
+👉 [https://react-components-lac-two.vercel.app](https://react-components-lac-two.vercel.app)
+
+## Built With
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com)
